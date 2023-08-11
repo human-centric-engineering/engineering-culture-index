@@ -7,13 +7,10 @@ Details
 ## The Questions
 
 ### Mastery
-<a href="/questions/craftsmanship.md">Craftsmanship</a>
-
-<a href="/questions/creativity.md">Creativity</a>
-
-<a href="/questions/learning.md">Learning</a>
-
-<a href="/questions/professionalism.md">Professionalism</a>
+* <a href="/questions/craftsmanship.md">Craftsmanship</a>
+* <a href="/questions/creativity.md">Creativity</a>
+* <a href="/questions/learning.md">Learning</a>
+* <a href="/questions/professionalism.md">Professionalism</a>
 
 ### Autonomy
 
