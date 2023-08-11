@@ -4,7 +4,17 @@ Details
 
 ## Intro
 
-## Contents
+## The Questions
+
+### Mastery
+<a href="/craftsmanship.md">Craftsmanship</a>
+<a href="/creativity.md">Creativity</a>
+<a href="/learning.md">Learning</a>
+<a href="/professionalism.md">Professionalism</a>
+
+### Autonomy
+
+### Purpose
 
 ## Contributions
 
