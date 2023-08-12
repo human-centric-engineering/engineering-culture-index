@@ -1,4 +1,4 @@
-# Information Flow
+# Information
 
 ## Key Characteristics
 
