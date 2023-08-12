@@ -13,8 +13,16 @@ Details
 * <a href="/questions/professionalism.md">Professionalism</a>
 
 ### Autonomy
+* <a href="/questions/trust.md">Trust</a>
+* <a href="/questions/agency.md">Agency</a>
+* <a href="/questions/infrastructure.md">Infrastructure</a>
+* <a href="/questions/information.md">Information</a>
 
 ### Purpose
+* <a href="/questions/clarity.md">Clarity</a>
+* <a href="/questions/leadership.md">Leadership</a>
+* <a href="/questions/engagement.md">Engagement</a>
+* <a href="/questions/meaning.md">Meaning</a>
 
 ## Contributions
 
