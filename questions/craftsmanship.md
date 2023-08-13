@@ -18,7 +18,7 @@ The following are Likert Scale statements to which individual engineers will be 
 | 3. | We prioritise building quality into our software from the outset rather than relying on downstream tests.	| When quality is 'left-shifted', engineers get more immediate feedback over the quality of their work and a greater sense of accountability for quality. |
 | 4. | I am not pressured into taking shortcuts that may compromise the quality of my work. | Pressure, real or imagined causes people to make mistakes or ignore quality concerns. A low score highlights an opportunity to understand where the pressure is coming from and assess ways of reducing unnecessary pressure	|
 | 5. | Over time, our attitude towards craftsmanship and commitment to quality continues to improve.	| Even if our current levels of craftmanship are lower than we would like, a trajectory towards improved craftmanship indicates that it is valued and that actions are being taken to continually improve quality. |
-
+| 6. | I am proud to be associated with the craftsmanship of work we deliver as a team.	| Taking personal pride in one's work is important for one's self-esteem. A low score may reveal that people are ashamed or embarrassed by the quality of work they are delivering. This is an alienating feeling which will warrant further investigation to understand and remedy |
 
 
 
