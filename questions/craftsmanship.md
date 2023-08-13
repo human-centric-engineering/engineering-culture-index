@@ -8,7 +8,9 @@
 ## Description
 Craftsmanship requires sincere care for quality, having the attitude of mastery to create elegant solutions that not only deliver the desired functionality but are well-designed and appreciated by future engineers for their elegance and simplicity.
 
-## Questions
+## Question Statements
+The following are Likert Scale statements to which individual engineers will be asked to signify their level of agreement according to 7 suggested degrees: Strongly Disagree; Disagree; Somewhat Disagree; Neither Agree or Disagree; Somewhat Agree; Agree; Strongly Agree.
+
 | | STATEMENT  	| INTENT  	|
 |---	|---	|---	|
 | 1. | Striving for technical excellence in our work is encouraged and valued within our team.	| Reveals team-level attitudes towards craftsmanship. A low score or a score with high variance may highlight an opportunity to discuss people's personal aspirations, discussions about what technical excellence looks like, and what is getting in the way of striving for technical excellence. |
