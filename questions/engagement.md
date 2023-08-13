@@ -5,4 +5,10 @@
 ## Description
 
 ## Questions
-
+| STATEMENT  	| INTENT  	|
+|---	|---	|
+|   	|   	|
+|   	|   	|
+|   	|   	|
+|   	|   	|
+|   	|   	|
