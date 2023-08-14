@@ -8,7 +8,7 @@ By having agency, individuals gain a strong sense of control over their working 
 
 ## Questions
 
-| | STATEMENT  	| INTENT  	| INTERPRETATION |
+| | STATEMENT  	| ASSUMPTIONS 	| INTERPRETATION |
 |---	|---	|---	|---	|
 | 1. | Within our team, we have the autonomy to make decisions about the use of tools and technologies that best suit our needs. | The assumption, as purported in the book 'Accelerate' is teams are more effective when they can choose the tools which are most suitable for their particular needs. | Low scores may indicate that bureaucratic control of tooling is limiting the potential performance of autonomous teams.	|
 | 2. | We are a self-organising team, with the authority to address local issues and challenges without needing bureaucratic approval.	| The assumption is that the people closest to the problem are best positioned to understand it and organise themselves to deal with it.  | Low scores may indicate the presence of overbearing external control.	|
