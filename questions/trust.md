@@ -9,7 +9,7 @@ Trust is foundational to having a working environment where people can speak dir
 
 ## Questions
 | | STATEMENT  	| ASSUMPTIONS 	| INTERPRETATION |
-|---	|---	|---	|---	|
+|---	|-------	|---	|---	|
 | 1. | As a self-organising team, we trust each other to deliver high-quality work and meet our commitments, seeking support when needed.	| People in autonomous teams need to feel they can depend on the skills and capabilities of their colleagues along with the wisdom to know when they need help. | A low score may prompt an inquiry into the balance of team skills and abilities.	|
 | 2. | We have sufficient levels of trust within our team to allow us to have constructive conflict when working through important challenges or decisions.	| Constructive conflict is an important part of making autonomous decisions as a team. | If people are unable to work through their conflicts, they will not feel committed to the team's decisions	|
 | 3. | Efforts are distributed fairly, with every member actively contributing to software delivery.	| It's important to feel that people are pulling their weight so there is a sense of organisational justice. | A low score could indicate that some team members are not participating fully causing a lack of dependability. |
