@@ -9,7 +9,7 @@ It is important that people understand the expectations of their roles and the p
 ## Questions
 
 
-| | STATEMENT  	| INTENT  	| INTERPRETATION |
+| | STATEMENT  	| ASSUMPTIONS  	| INTERPRETATION |
 |---	|---	|---	|---	|
 | 1. | I have a clear and well-defined understanding of the primary purpose, objectives, and vision of our team and how it fits with the overall goals of the organisation.  	| Having a clear understanding of team purpose and goals is essential to team motivation and direction. | Poor scores will reveal a need to review team structures and alignment with the organisational mission. |
 | 2. | When collaborating with other teams, there is a strong sense of alignment in priorities and responsibilities, guided by a clear and well-communicated execution plan. | Cohesive alignment across all teams is essential for productivity. | Poor scores may reveal potential conflict between the interest of teams which could result in confusion and working at cross-purposes. |
