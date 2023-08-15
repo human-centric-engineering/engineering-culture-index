@@ -3,6 +3,7 @@
 ## Key Characteristics
 
 ## Description
+It's important to feel that our work matters.
 
 ## Questions
 
