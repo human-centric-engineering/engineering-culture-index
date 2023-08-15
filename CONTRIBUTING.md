@@ -1,2 +1,9 @@
 # Contributing
 
+## Ethos
+There is no perfect set of survey questions and there will be many ways to rephrase them to remove ambiguities or to emphasise certain dimensions of engineering culture. Suggestions are welcome, especially if certain questions are confusing or fail to yield useful insights. There will certainly be some very good questions which have not been included in the survey that would highlight a very important aspect of engineering culture. Of course, the whole structural framework of 12 separate categories loosely aligned to self-determination theory may not be the optimal approach. The software engineering domain is ever-changing and so new paradigms will emerge over time which might signal the need for wholesale changes to the survey.
+
+## Suggestions 
+* All suggestions for modification or improvements to individual questions are welcome as a Pull Request.
+* Structural changes or suggestions requiring an element of nuanced thinking can be made by commenting via the 'issues' tab.
+
