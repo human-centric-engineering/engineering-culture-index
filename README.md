@@ -30,6 +30,8 @@ The questions are Likert Scale statements to which individual engineers will be 
 
 The questions are categorised according to Self-Determination theory describes three dimensions which are critical to a feeling of intrinsic motivation, namely Mastery, Autonomy and Purpose. Each category has 4 subsets containing 6 questions, 2 questions are about how the engineer experiences their organisation, 2 are about their experience of working in teams, and 2 questions are about them as individuals and the impact they have on their engineering culture. The reason for this structure is that by simply taking the questionnaire engineers will learn about the key aspects of motivation and self-determination which can be consciously influenced to improve their developer experience. The format of the questions also shows engineers that they can have direct influence over their engineering culture, rather than seeing culture solely as something which is thrust upon us by the organisation. Analysis of the respondent's answers will reveal leverage points where changes can be made to optimise engineering culture over time.
 
+* Self-Determination Theory was popularised by Daniel Pink in his book, Drive, based on earlier research into intrinsic motivation by Edward L. Deci and Richard Ryan.
+
 ## Contributions
 Comments and contributions are welcome. See <a href="CONTRIBUTING.md">Contributing for details</a>.
 
