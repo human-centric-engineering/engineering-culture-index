@@ -8,14 +8,14 @@ Strong leadership is essential to orienting people to their purpose, creating bo
 
 ## Questions
 
-| | STATEMENT  	| INTENT  	| INTERPRETATION |
-|---	|---	|---	|---	|
-| 1. | In our organisation, the role of senior people is not "making decisions" but "creating conditions" - conditions in which good decisions get made and implemented, innovatively, and iteratively. | As per the advice in the book 'Turn the Ship Around', nurturing an attitude of leadership at all levels of the organisation gives people the opportunity to realise their potential to step up and take responsibility for resolving issues they are faced with directly.	| Low scores may indicate elements of overbearing control which can disincentivise people from using their own initiative. | 
-| 2. | Our organisation promotes a culture of shared responsibility and shared risk, encouraging collective problem-solving and cross-functional collaboration for well-rounded solutions.	| Strong leadership encourages boundary bridging so for interdepartmental alignment and a blameless sharing of responsibilities. | Different teams working at cross purposes or with conflicting incentives are damaging to morale and wasteful. A low score may highlight a need for ensuring that inter-team goals are aligned within a structure where boundary bridging is encouraged. |
-| 3. | Within our teams, the person with the most appropriate competency in a given situation is encouraged to step forward to take the lead | | |
-| 4. | Within our teams, data and evidence play a central role in our decision-making processes, ensuring informed choices and fostering a data-driven culture.	| Decisions that are backed by evidence, data, and reasoning are much more likely to gain the support and commitment of those responsible for their implementation.	| Low scores may highlight a 'might is right' attitude where decisions are made through force of personality or status rather than reason and rational argument. |
-| 5. | I feel confident in taking the lead in situations when I have the most appropriate knowledge and skills to direct the efforts of others | | |
-| 6. | I see leadership as an attitude that anyone can adopt rather than a role restricted to more senior people in the organisation | | |
+| | STATEMENT  	|
+|---	|---	|
+| 1. | In our organisation, the role of senior people is not "making decisions" but "creating conditions" - conditions in which good decisions get made and implemented, innovatively, and iteratively. |
+| 2. | Our organisation promotes a culture of shared responsibility and shared risk, encouraging collective problem-solving and cross-functional collaboration for well-rounded solutions.	|
+| 3. | Within our teams, the person with the most appropriate competency in a given situation is encouraged to step forward to take the lead |
+| 4. | Within our teams, data and evidence play a central role in our decision-making processes, ensuring informed choices and fostering a data-driven culture.	|
+| 5. | I feel confident in taking the lead in situations when I have the most appropriate knowledge and skills to direct the efforts of others |
+| 6. | I see leadership as an attitude that anyone can adopt rather than a role restricted to more senior people in the organisation |
 
  
 
