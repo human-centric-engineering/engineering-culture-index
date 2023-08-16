@@ -1,7 +1,7 @@
 # Leadership
 
 ## Key Characteristics
-Organisational Cohesion, Communication, Data-Driven Decisions, Learning Organisation, and Shared Responsibility.
+Decision Making, Taking Actions, Organisational Cohesion, Collaboration and Shared Responsibility.
 
 ## Description
 Strong leadership is essential to orienting people to their purpose, creating both the direction of travel and curating the overall experience of teams and individuals. People are motivated by leadership they can have confidence in and one that genuinely cares about the people involved in the process, creating a sense that individuals and their efforts matter.
