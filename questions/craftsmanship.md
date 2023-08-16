@@ -13,7 +13,7 @@ The following are Likert Scale statements to which individual engineers will be 
 
 | | STATEMENT  	| ASSUMPTIONS  	| INTERPRETATION |
 |---	|---	|---	|---	|
-| 1. | Our organisation places a high value on delivering good quality products and services to end users
+| 1. | Our organisation places a high value on delivering good quality products and services to end users.
 | 2. | Our organisation understands that sufficient time and the right processes are required in order to produce high-quality work.
 | 3. | In our teams, striving for technical excellence in our work is encouraged and valued.	| Reveals team-level attitudes towards craftsmanship. | A low score or a score with high variance may highlight an opportunity to discuss people's personal aspirations, discussions about what technical excellence looks like, and what is getting in the way of striving for technical excellence. |
 | 4. | In our teams, we actively seek feedback from each other to validate and improve the quality of our work, building quality into our software from the outset rather than relying on downstream tests. | We can't easily see the flaws in our own work so seeking feedback and opinion from others helps to create a more rounded perspective. When quality is 'left-shifted', engineers get more immediate feedback on the quality of their work and a greater sense of accountability for quality. | A low score may reveal poor attitudes around quality or poor social dynamics which hinder the seeking of alternative opinions. |
