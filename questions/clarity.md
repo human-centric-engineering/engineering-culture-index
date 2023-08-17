@@ -1,7 +1,7 @@
 # Clarity
 
 ## Key Characteristics
-Clarity on the primary purpose of the organisation and teams. Career Paths, Alignment
+Clarity of the primary purpose of the organisation and teams. Clear Direction. Clear Career Paths, Clear Roles and Responsibilities.
 
 ## Description
 It is important that people understand the expectations of their roles and the processes for executing and delivering those expectations.
