@@ -33,6 +33,14 @@ Deep fulfilment and being part of something bigger than ourselves.
 * <a href="/questions/engagement.md">Engagement</a>
 * <a href="/questions/meaning.md">Meaning</a>
 
+#### Summary
+The 3 categories above are each comprised of 24 Likert Scale statements, 72 questions in total. Each section will also have a comments input box to collect any additional information an engineer wishes to share. There will also be a concluding section to collect feedback on how engineers feel about the survey.
+
+We will seek a response to these final 2 questions as well as provide a comments box to collect feedback about the survey.
+* The survey questions have been clear and unambiguous.
+* The survey questions relate well to the most important aspects of engineering culture.
+
+
 ## Rationale for the Questions and the Structure
 The questions are Likert Scale statements to which individual engineers will be asked to signify their level of agreement according to 7 suggested degrees: Strongly Disagree; Disagree; Somewhat Disagree; Neither Agree or Disagree; Somewhat Agree; Agree; Strongly Agree. The questions relate to a software engineer's subjective assessment of the engineering culture as they experience it.
 
