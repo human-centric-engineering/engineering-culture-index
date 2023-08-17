@@ -52,6 +52,6 @@ The survey questions may be used for commercial or non-commercial purposes witho
 ## Footnotes
 <a name="self-determination-theory">1</a>: Self-Determination Theory was popularised by Daniel Pink in his book, Drive, based on earlier research into intrinsic motivation by Edward L. Deci and Richard Ryan.
 
-<a name="ron-westrum">2</a>: Ron Westrum
+<a name="ron-westrum">2</a>: Ron Westrum 
 
-<a name="accelerate">3</a>: Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations is a book by Gene Kim, Jez Humble, and Nicole Forsgren
+<a name="accelerate">3</a>: Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations is a book by Gene Kim, Jez Humble, and Nicole Forsgren which uses rigorous statistical analysis to support the theoretical justifications for successful technology practices such as the use of DORA metrics.
