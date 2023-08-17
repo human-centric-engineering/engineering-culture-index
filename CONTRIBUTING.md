@@ -11,3 +11,15 @@ These survey questions are open-sourced for 2 main reasons:
 * All suggestions for modification or improvements to individual questions are welcome as a Pull Request.
 * Structural changes or suggestions requiring an element of nuanced thinking can be made by commenting via the 'issues' tab.
 
+Suggestions are particularly welcome from software engineers based on their personal experiences of what is important to them in their work. Suggestions will also be proactively sought from psychologists and specialists in corporate culture.
+
+Suggestions from non-engineers who do not have a GitHub account are welcome via a direct message to the author's [LinkedIn](https://www.linkedin.com/in/johndurrant/) account. 
+
+## Frequency of Changes
+It is suspected that there will be frequent changes during the early stages of this project (alpha stages) as tweaks are made in response to 'in the field' exposure and feedback. Once the project is beyond the alpha phase, changes will likely be much rarer as the aim will be to reach a stable set of questions which can be used as benchmarks over time.
+
+## Version Control
+The project will be version controlled and aligned with Semantic Versioning:
+
+0.0.1 will be the first alpha release
+1.0.1 will be the first production release
