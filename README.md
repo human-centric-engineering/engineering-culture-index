@@ -47,7 +47,7 @@ The materials herein are all &copy; [John Durrant](https://www.linkedin.com/in/j
 
 This work is licensed under a <a rel="/license" href="/LICENSE">GNU General Public License v3.0</a>.
 
-The survey questions may be used for commercial or non-commercial purposes without permission of the author provided that the author, John Durrant of Human-Centric Engineering, is credited.
+The survey questions may be used for commercial or non-commercial purposes without permission of the author however it is requested that the author, John Durrant of Human-Centric Engineering, is credited.
 
 ## Footnotes
 <a name="self-determination-theory">1</a>: Self-Determination Theory was popularised by Daniel Pink in his book, Drive, based on earlier research into intrinsic motivation by Edward L. Deci and Richard Ryan. See [Wikipedia Self-Determination Theory](https://en.wikipedia.org/wiki/Self-determination_theory)
