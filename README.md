@@ -10,7 +10,7 @@ Culture, by its emergent nature, defies accurate measurement. It is an intuitive
 Below are links to the survey questions
 
 ### Mastery
-The care and quality of engineering and continual growth.
+Care and quality in engineering and continual growth as teams and individuals.
 
 * <a href="/questions/craftsmanship.md">Craftsmanship</a>
 * <a href="/questions/creativity.md">Creativity</a>
