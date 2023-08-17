@@ -1,7 +1,7 @@
 # Information
 
 ## Key Characteristics
-Communication, Relationships, Alignment, Visibility, Documentation, Clarity of Expectations.
+Communication, Relationships, Alignment, Visibility, Documentation, Information Flows.
 
 ## Description
 Good judgement relies on information which is not distorted, delayed or withheld. Teams need access to reliable information in order to be self-organising and self-determined. Efficient and effective communication channels ensure that the right information gets to the right people at the right time.
