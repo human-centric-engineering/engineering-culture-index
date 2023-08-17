@@ -1,25 +1,32 @@
 # Engineering Culture Index
 
-Details
-
 ## Intro
+The Engineering Culture Index survey is based on 12 categories of questions to understand the subjective experience of engineers. The categories are grouped into three columns representing the dimensions of intrinsic human motivation identified by Self-Determination Theory, namely Mastery, Autonomy and Purpose so that the survey is directly related to aspects of human motivation and thriving. In all, there are 72 statements which use a Likert scale to capture a positive or negative response from the engineer. Woven into the survey is the evidence-based research of Ron Westrum and the predictive influence of organisational culture on software delivery performance and organisational performance.
+
+Culture, by its emergent nature, defies accurate measurement. It is an intuitive ‘tacit knowing’ derived from our subjective experiences. Culture results from our collective underlying assumptions and worldviews and our experience of the interactions which ensue from acting on our beliefs and values. The Engineering Culture Index is a working hypothesis on engineering culture which is version controlled and will be modified over time to reflect emerging insights and changes in the craft of software engineering.
 
 ## The Questions
 Below are links to the survey questions
 
 ### Mastery
+The care and quality of engineering and continual growth.
+
 * <a href="/questions/craftsmanship.md">Craftsmanship</a>
 * <a href="/questions/creativity.md">Creativity</a>
 * <a href="/questions/learning.md">Learning</a>
 * <a href="/questions/professionalism.md">Professionalism</a>
 
 ### Autonomy
+Self-directed teams and individuals collaborating effectively.
+
 * <a href="/questions/trust.md">Trust</a>
 * <a href="/questions/agency.md">Agency</a>
 * <a href="/questions/infrastructure.md">Infrastructure</a>
 * <a href="/questions/information.md">Information</a>
 
 ### Purpose
+Deep fulfilment and being part of something bigger than ourselves.
+
 * <a href="/questions/clarity.md">Clarity</a>
 * <a href="/questions/leadership.md">Leadership</a>
 * <a href="/questions/engagement.md">Engagement</a>
