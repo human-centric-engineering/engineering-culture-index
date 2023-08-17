@@ -10,16 +10,10 @@ Humans are highly adaptable and thrive on opportunities to learn new skills and 
 
 | | STATEMENT  	|
 |---	|---	|
-| 1. | Our organisation fosters a learning-oriented environment, learning from success and not fearing failure. |
-| 2. | Our organisation invests in learning and staying up-to-date with industry trends and techniques. |
+| 1. | Our organisation fosters a learning-oriented environment, where successes are shared and mistakes provoke systematic inquiry and continuous improvement. |
+| 2. | Our organisation invests appropriately in learning and staying up-to-date with industry trends and techniques. |
 | 3. | Within our teams we have a system of knowledge sharing to keep each other informed. |
 | 4. | Within our teams we mentor and coach one another to support skills learning and career progression. | 
 | 5. | I seek constructive feedback regarding my contributions and interactions and proactively give feedback to others in an honest but compassionate manner. |
-| 6. | I am proactive in my own personal and professional development.	|
-
-
-
-
-
-
+| 6. | I am proactive in my own personal and professional development and am willing to share my progress to inspire others.	|
 
