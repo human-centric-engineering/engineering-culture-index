@@ -1,7 +1,7 @@
 # Creativity
 
 ## Key Characteristics
-Experimentation, Prototyping, Innovation, Hypothesis-Driven Culture.
+Experimentation, Prototyping, Innovation, Hypothesis-Driven Culture, Implementing Novelty.
 
 ## Description
 The section is about the sense of creativity you feel when you are working. Whether you have some freedom to experiment, to try new approaches to find the best solution, knowing that some of those approaches may fail.
