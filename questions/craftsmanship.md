@@ -13,7 +13,7 @@ Craftsmanship requires sincere care for quality, having the attitude of mastery 
 | | STATEMENT  	|
 |---	|---	|
 | 1. | Our organisation places a high value on delivering high-quality software to end users. |
-| 2. | Our organisation understands that sufficient time and appropriate infrastructure are required in order to produce high-quality work. |
+| 2. | Our organisation understands that sufficient time, tooling and processes are required in order to produce high-quality work. |
 | 3. | In our teams, striving for technical excellence in our work is encouraged and valued.	| Reveals team-level attitudes towards craftsmanship. |
 | 4. | In our teams, we actively seek feedback from each other to validate and improve the quality of our work, building quality into our software from the outset rather than relying on downstream tests. |
 | 5. | I encourage my colleagues to take pride in the craftsmanship of the work we deliver as a team.	|
