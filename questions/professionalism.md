@@ -14,5 +14,5 @@ Professionalism relates to a standard of behaviours, attitudes, and competencies
 | 2. | Our organisation implements philosophies and technical practices that are aligned with industry thinking and well-established principles. | 
 | 3. | In our teams, our technical decisions are guided by our organisational principles and supported by data, rather than being influenced by fads or through the force of any particular person.	|
 | 4. | Within our teams, good technical practices are an automatic habit exhibited in our daily work. |
-| 5. | I proactively keep abreast of industry thinking, standards and practices related to my work.	| 
+| 5. | I keep abreast of developments in industry thinking, standards and practices related to my work.	| 
 | 6. | I participate in reviews and improvements to our technical standards and principles according to my level of competency. |
