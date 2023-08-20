@@ -10,7 +10,7 @@ Humans are highly adaptable and thrive on opportunities to learn new skills and 
 
 | | STATEMENT  	|
 |---	|---	|
-| 1. | Our organisation fosters a learning-oriented environment, where successes are shared and mistakes provoke systematic inquiry and continuous improvement. |
+| 1. | Our organisation fosters a learning-oriented environment, where successes are shared and mistakes provoke systematic inquiry in the interest of continuous improvement. |
 | 2. | Our organisation invests appropriately in learning, providing dedicated personal learning time, and staying up-to-date with industry trends and techniques. |
 | 3. | Within our teams we systematically share knowledge to learn together and keep each other informed. |
 | 4. | Within our teams we systematically mentor and coach one another to support skills learning and career progression. | 
