@@ -4,7 +4,7 @@
 Clarity of the primary purpose of the organisation and teams. Clear Direction. Clear Career Paths, Clear Roles and Responsibilities.
 
 ## Description
-It is important that people understand the expectations of their roles and the processes for executing and delivering those expectations.
+It is important that people understand the expectations of their roles and the processes for executing and delivering those expectations so they feel secure in where they are and know they are heading in the right direction.
 
 ## Questions
 
