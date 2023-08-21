@@ -4,7 +4,7 @@
 Energy, Motivation, Flow, Contribution, Challenge, Inspiration, Wellbeing, Vitality, Connection.
 
 ## Description
-Developer Experience (DevEx) refers to an engineer's day-to-day experience of working with their tools, processes, systems and culture to deliver software in a productive, satisfying, and sustainable way. 
+A good Developer Experience (DevEx) refers to an engineer's day-to-day experience of working with their tools, processes, systems and culture to deliver software in a productive, satisfying, and sustainable way. Engaged engineers regularly report a feeling of flow, in the zone and fully immersed in their work which correlates with a sense of general wellbeing and vitality.
 
 ## Questions
 
