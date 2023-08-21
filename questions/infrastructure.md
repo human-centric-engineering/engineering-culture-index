@@ -14,5 +14,5 @@ A sense of autonomy comes from having the right tools and processes for the job.
 | 2. | Our organisation actively promotes operational excellence, supporting the use of tools and structures to enable continual improvements.	|
 | 3. | In our teams we have efficient and effective ways of resolving issues which are blocking the development workflow and ensuring they don't reoccur. |
 | 4. | In our teams, the onboarding process is efficient and enables new team members to quickly become productive.	|
-| 5. | I am able to focus on delivering value, rather than being hindered by environment issues, inadequate tools or cumbersome processes.	|
-| 6. | I proactively contribute to the automation of repetitive manual tasks, saving time and energy for more impactful work.  	|
+| 5. | To the best of my abilities I ensure the next person succeeds by resolving environment issues, propagating the use of appropriate tools or improving cumbersome processes.	|
+| 6. | I proactively contribute to the automation of repetitive manual tasks, saving time and energy for more impactful work.  |
