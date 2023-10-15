@@ -56,39 +56,38 @@ Each category has 4 subsets containing 6 questions, 2 questions are about how th
 ## A Cautionary Approach to Implementation
 A LinkedIn post by John Cutler<sup>[6](#johncutler)</sup> provides a cautionary counterbalance to engagement surveys in general. His valuable words from his LinkedIn Post on 15th Oct 2023 are provided in full below:
 
-```text
-If you're relying on engagement surveys (or people "speaking up") to understand what is happening in your company you're likely missing A GREAT DEAL—especially if things are getting worse Why?
+> If you're relying on engagement surveys (or people "speaking up") to understand what is happening in your company you're likely missing A GREAT DEAL—especially if things are getting worse Why?
+> 
+> 1. Feedback Saturation
+> 2. Emotional Exhaustion
+> 3. Acclimatization
+> 4. Cognitive Dissonance
+> 5. Shifted Expectations
+> 6. Localized Tolerance
+> 7. Locus of Control
+> 8. Fear of Repercussions
+> 9. Hedonic Treadmill
+> 
+> ⚠ Feedback Saturation: If a situation continues to deteriorate, team members might feel that they've already given feedback on the issue multiple times. Over time, they provide less feedback because they believe their previous feedback hasn't led to change.
+> 
+> ⚠ Emotional Exhaustion: As team members get more and more exhausted, they tend to become less vocal and less expressive about their concerns because they're emotionally drained.
+> 
+> ⚠ Acclimatization: As team members adapt to worsening conditions, they might come to accept the conditions as the "new normal" and provide less critical feedback.
+> 
+> ⚠ Cognitive Dissonance: If employees have invested a lot in the company (time, energy, emotions), they might experience cognitive dissonance, where they downplay or ignore negative aspects to maintain a consistent positive image of the place they've devoted so much time to.
+> 
+> ⚠ Shifted Expectations: Over time, faced with unmet needs in the workplace, team members recalibrate their expectations. They begin to expect less from their job in terms of satisfaction, growth, or engagement, and prioritize getting those needs met elsewhere.
+> 
+> ⚠ Localized Tolerance: In large organizations, many issues manifest as minor inconveniences at the local level. Teams develop workarounds or short-term solutions to navigate these inconveniences. Because these issues don't seem critical, they don't feel the urgency to provide feedback.
+> 
+> ⚠ Focus on What You Can Control: One common coping strategy, especially in large companies, is to narrow one's focus to what is directly within your control. This narrowed focus can lead to a decrease in feedback about broader organizational challenges. The mindset becomes: "If I can't change it, I won't worry about it."
+> 
+> ⚠ Fear of Repercussions for Others: Even in systems that promise anonymity, employees may hold back on feedback out of concern for the consequences it might have on others, especially their managers or immediate supervisors. There's a worry that if they highlight certain problems, it might reflect poorly on their team or leader.
+> 
+> ⚠ Hedonic Treadmill: As individuals experience changes in their work environment, they tend to quickly adapt to new conditions, whether positive or negative. Over time, what was once a significant improvement or decline in conditions can become the new baseline for their experience.
+> 
+> This is why you have to connect with people directly, listen deeply, observe, and seek diverse perspectives. Surveys and "waiting for people to speak up" will not cut it.
 
-1. Feedback Saturation
-2. Emotional Exhaustion
-3. Acclimatization
-4. Cognitive Dissonance
-5. Shifted Expectations
-6. Localized Tolerance
-7. Locus of Control
-8. Fear of Repercussions
-9. Hedonic Treadmill
-
-⚠ Feedback Saturation: If a situation continues to deteriorate, team members might feel that they've already given feedback on the issue multiple times. Over time, they provide less feedback because they believe their previous feedback hasn't led to change.
-
-⚠ Emotional Exhaustion: As team members get more and more exhausted, they tend to become less vocal and less expressive about their concerns because they're emotionally drained.
-
-⚠ Acclimatization: As team members adapt to worsening conditions, they might come to accept the conditions as the "new normal" and provide less critical feedback.
-
-⚠ Cognitive Dissonance: If employees have invested a lot in the company (time, energy, emotions), they might experience cognitive dissonance, where they downplay or ignore negative aspects to maintain a consistent positive image of the place they've devoted so much time to.
-
-⚠ Shifted Expectations: Over time, faced with unmet needs in the workplace, team members recalibrate their expectations. They begin to expect less from their job in terms of satisfaction, growth, or engagement, and prioritize getting those needs met elsewhere.
-
-⚠ Localized Tolerance: In large organizations, many issues manifest as minor inconveniences at the local level. Teams develop workarounds or short-term solutions to navigate these inconveniences. Because these issues don't seem critical, they don't feel the urgency to provide feedback.
-
-⚠ Focus on What You Can Control: One common coping strategy, especially in large companies, is to narrow one's focus to what is directly within your control. This narrowed focus can lead to a decrease in feedback about broader organizational challenges. The mindset becomes: "If I can't change it, I won't worry about it."
-
-⚠ Fear of Repercussions for Others: Even in systems that promise anonymity, employees may hold back on feedback out of concern for the consequences it might have on others, especially their managers or immediate supervisors. There's a worry that if they highlight certain problems, it might reflect poorly on their team or leader.
-
-⚠ Hedonic Treadmill: As individuals experience changes in their work environment, they tend to quickly adapt to new conditions, whether positive or negative. Over time, what was once a significant improvement or decline in conditions can become the new baseline for their experience.
-
-This is why you have to connect with people directly, listen deeply, observe, and seek diverse perspectives. Surveys and "waiting for people to speak up" will not cut it.
-``` 
 
 ## Contributions
 Comments and contributions are welcome. See <a href="CONTRIBUTING.md">Contributing for details</a>.
