@@ -4,6 +4,16 @@ The Engineering Culture Index is a service available from [Human Centric Enginee
 ## Intro
 Culture, by its emergent nature, defies accurate measurement. It is an intuitive ‘tacit knowing’ derived from our subjective experiences. Culture results from our collective underlying assumptions and worldviews and our experience of the interactions which ensue from acting on our beliefs and values. The Engineering Culture Index is a working hypothesis on engineering culture which is version controlled and will be modified over time to reflect emerging insights and changes in the craft of software engineering.
 
+| Mastery |  Autonomy | Purpose |
+| ------- | ------- | ------- |
+| **Care and quality in engineering and continual growth as teams and individuals** | **Self-directed teams and individuals collaborating effectively** | **Deep fulfilment and being part of something bigger than ourselves** |
+| **Craftsmanship** Pride in Work, Care for Quality, Technical Excellence | **Trust** Dependability, Psychological Safety,  Strong Relationships, Honesty, Vulnerability | **Clarity** Clarity of the primary purpose of the organisation and teams. Clear Direction. Clear Career Paths, Clear Roles and Responsibilities |
+| **Creativity** Experimentation, Prototyping, Innovation, Hypothesis-Driven Culture, Implementing Novelty | **Agency** Influence, Autonomy, Empowerment, Ownership, Accountability, Self-Organising Teams, Sustainable Pace | **Leadership** Decision Making, Taking Actions, Organisational Cohesion, Collaboration, Small ‘L’ Leadership, Shared Responsibility |
+| **Learning** Knowledge Sharing, Dedicated Learning Time, Communities of Practice,  Continuous Improvement Mentoring, Coaching, Growth Mindset, Feedback | **Infrastructure** Tools, Environments, Automation, Structures, Processes, Operational Excellence | **Engagement** Energy, Motivation, Flow, Contribution, Challenge, Inspiration, Wellbeing, Vitality, Connection |
+| **Professionalism** Technical Practices, Principles, Standards, Competencies, Attitudes, and Behaviours | **Information** Communication, Relationships, Alignment, Visibility, Documentation, Information Flows | **Meaning** Inclusion, Belonging, Connection, Aligned Values, Meaningful Results, Aspiration, Individual Transformation, Stability, Feeling Valued |
+
+
+
 ## The Questions
 Below are links to the survey questions. The questions are Likert Scale statements to which individual engineers will be asked to signify their level of agreement on the familiar scale of Strongly Disagree to Strongly Agree. The questions relate to a software engineer's subjective assessment of the engineering culture as they experience it.
 
