@@ -51,7 +51,44 @@ We will seek a response to these final 2 questions as well as provide a comments
 ## Rationale for the Questions and the Structure
 The Engineering Culture Index survey is based on 12 categories of questions to understand the subjective experience of engineers. The categories are grouped into three columns representing the dimensions of intrinsic human motivation identified by Self-Determination Theory<sup>[1](#self-determination-theory)</sup>, namely Mastery, Autonomy and Purpose so that the survey is directly related to aspects of human motivation and thriving. A framework of the constituents of motivation has been used because motivation determines where we'll put our attention and effort. It reflects the contagious energy that drives inspired accomplishment. In all, there are 72 statements which use a Likert scale to capture a positive or negative response from the engineer. Assumptions woven into the survey are derived from the evidence-based research of Ron Westrum<sup>[2](#ron-westrum)</sup> and the predictive influence of organisational culture on software delivery performance and organisational performance as discussed in the book Accelerate<sup>[3](#accelerate)</sup>. Also woven into the survey are the findings from Google's Project Aristotle<sup>[4](#aristotle)</sup> which highlighted the constituents of team success at Google. The have been numerous other<sup>[5](#accelerate)</sup> influences and personal experiences which have been incorporated into this work.
 
-Each category has 4 subsets containing 6 questions, 2 questions are about how the engineer experiences their organisation, 2 are about their experience of working in teams, and 2 questions are about them as individuals and the impact they have on their engineering culture. The reason for this structure is that by simply taking the questionnaire engineers will learn about the key aspects of motivation and self-determination which can be consciously influenced to improve their developer experience. The format of the questions also shows engineers that they can have direct influence over their engineering culture, rather than seeing culture solely as something which is thrust upon us by the organisation. Analysis of the respondent's answers will reveal leverage points where changes can be made to optimise engineering culture over time.  The Team related questions could be split off from this survey and be used to assess the dynamics of a particular team, or the individual statements could be given to an individual engineer to help them understand their own impact on the prevailing culture.
+Each category has 4 subsets containing 6 questions, 2 questions are about how the engineer experiences their organisation, 2 are about their experience of working in teams, and 2 questions are about them as individuals and the impact they have on their engineering culture. The reason for this structure is that by simply taking the questionnaire engineers will learn about the key aspects of motivation and self-determination which can be consciously influenced to improve their developer experience. The format of the questions also shows engineers that they can have direct influence over their engineering culture, rather than seeing culture solely as something which is thrust upon us by the organisation. Analysis of the respondent's answers will reveal leverage points where changes can be made to optimise engineering culture over time.  The Team-related questions could be split off from this survey and be used to assess the dynamics of a particular team, or the individual statements could be given to an individual engineer to help them understand their own impact on the prevailing culture.
+
+## A Cautionary Approach to Implementation
+A LinkedIn post by John Cutler<sup>[6](#johncutler)</sup> provides a cautionary counterbalance to engagement surveys in general. His valuable words from his LinkedIn Post on 15th Oct 2023 are provided in full below:
+
+```text
+If you're relying on engagement surveys (or people "speaking up") to understand what is happening in your company you're likely missing A GREAT DEAL—especially if things are getting worse Why?
+
+1. Feedback Saturation
+2. Emotional Exhaustion
+3. Acclimatization
+4. Cognitive Dissonance
+5. Shifted Expectations
+6. Localized Tolerance
+7. Locus of Control
+8. Fear of Repercussions
+9. Hedonic Treadmill
+
+⚠ Feedback Saturation: If a situation continues to deteriorate, team members might feel that they've already given feedback on the issue multiple times. Over time, they provide less feedback because they believe their previous feedback hasn't led to change.
+
+⚠ Emotional Exhaustion: As team members get more and more exhausted, they tend to become less vocal and less expressive about their concerns because they're emotionally drained.
+
+⚠ Acclimatization: As team members adapt to worsening conditions, they might come to accept the conditions as the "new normal" and provide less critical feedback.
+
+⚠ Cognitive Dissonance: If employees have invested a lot in the company (time, energy, emotions), they might experience cognitive dissonance, where they downplay or ignore negative aspects to maintain a consistent positive image of the place they've devoted so much time to.
+
+⚠ Shifted Expectations: Over time, faced with unmet needs in the workplace, team members recalibrate their expectations. They begin to expect less from their job in terms of satisfaction, growth, or engagement, and prioritize getting those needs met elsewhere.
+
+⚠ Localized Tolerance: In large organizations, many issues manifest as minor inconveniences at the local level. Teams develop workarounds or short-term solutions to navigate these inconveniences. Because these issues don't seem critical, they don't feel the urgency to provide feedback.
+
+⚠ Focus on What You Can Control: One common coping strategy, especially in large companies, is to narrow one's focus to what is directly within your control. This narrowed focus can lead to a decrease in feedback about broader organizational challenges. The mindset becomes: "If I can't change it, I won't worry about it."
+
+⚠ Fear of Repercussions for Others: Even in systems that promise anonymity, employees may hold back on feedback out of concern for the consequences it might have on others, especially their managers or immediate supervisors. There's a worry that if they highlight certain problems, it might reflect poorly on their team or leader.
+
+⚠ Hedonic Treadmill: As individuals experience changes in their work environment, they tend to quickly adapt to new conditions, whether positive or negative. Over time, what was once a significant improvement or decline in conditions can become the new baseline for their experience.
+
+This is why you have to connect with people directly, listen deeply, observe, and seek diverse perspectives. Surveys and "waiting for people to speak up" will not cut it.
+``` 
 
 ## Contributions
 Comments and contributions are welcome. See <a href="CONTRIBUTING.md">Contributing for details</a>.
@@ -74,3 +111,5 @@ The survey questions may be used for commercial or non-commercial purposes witho
 <a name="aristotle">4</a>: Project Aristotle found that Psychological Safety, Dependability, Structure & Clarity, Meaning, and Impact were the most important predictors of team success. See [Project Aristotle](https://rework.withgoogle.com/print/guides/5721312655835136/)
 
 <a name="other">5</a>: Other influences for this survey include (but are not limited to) [Gallup’s State of the Global Workplace report on employee engagement](https://www.gallup.com/workplace/349484/state-of-the-global-workplace.aspx), various Systems Thinking resources, notably Donella Meadows' book "Thinking in Systems", Peter Senge's thinking on Learning Organisations, specifically his book "The Fifth Discipline", David Marquet's thinking on Leadership, notably his book "Turn the Ship Around", Mihaly Czicksentmihy's work on the Flow state, "The Five Dysfunctions of a Team" by Patrick Lencioni, "Team Topologies" by Manuel Pais and Matthew Skelton, "The Culture Code" by Daniel Coyle, "Principles" by Ray Dalio, the work and musings of organisational and culture specialists such as Dr Richard Claydon of the [EQ Lab](https://www.eqlab.co/), and [Geoff Marlow](https://www.geoffmarlow.com/).
+
+<a name="johncutler">6</a>: John Cutler's [LinkedIn post on engagement surveys](https://www.linkedin.com/posts/johnpcutler_if-youre-relying-on-engagement-surveys-activity-7119182332590256128-1B2t).
