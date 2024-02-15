@@ -2,7 +2,7 @@
 The Engineering Culture Index is a service available from [Human Centric Engineering](https://www.humancentricengineering.com/) which is a consultancy practice specialising in the human aspects of software engineering. The service comprises the survey-based questionnaire in this repository supported with workshops, coaching and consultancy to help software engineering departments create optimal ecosystems where engineers can thrive. See [Engineering Culture Index](https://www.humancentricengineering.com/engineering-culture-index) for a service description.
 
 ## Intro
-Culture, by its emergent nature, defies accurate measurement. It is an intuitive ‘tacit knowing’ derived from our subjective experiences. Culture results from our collective underlying assumptions and worldviews and our experience of the interactions which ensue from acting on our beliefs and values. The Engineering Culture Index is a working hypothesis on engineering culture which is version controlled and will be modified over time to reflect emerging insights and changes in the craft of software engineering.
+Culture, by its emergent nature, defies accurate measurement. It is an intuitive ‘tacit knowing’ derived from our subjective experiences. Culture results from our collective underlying assumptions and worldviews and our experience of the interactions which ensue from acting on our beliefs and values. The Engineering Culture Index is a working hypothesis on engineering culture which is version-controlled and will be modified over time to reflect emerging insights and changes in the craft of software engineering.
 
 | Mastery |  Autonomy | Purpose |
 | ------- | ------- | ------- |
@@ -90,7 +90,7 @@ A LinkedIn post by John Cutler<sup>[6](#johncutler)</sup> provides a cautionary 
 
 
 ## Contributions
-Comments and contributions are welcome. See <a href="CONTRIBUTING.md">Contributing for details</a>.
+Comments and contributions are welcome. See <a href="CONTRIBUTING.md">Contributing</a> for details.
 
 ## License & Copyright
 
