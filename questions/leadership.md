@@ -10,8 +10,8 @@ Strong leadership is essential to orienting people to their purpose, creating bo
 
 | | STATEMENT  	|
 |---	|---	|
-| 1. | In our organisation, senior leaders don't necessarily make all the decisions, but create the conditions in which good decisions are made and implemented. |
-| 2. | Our organisation promotes a culture of shared responsibility and shared risk, regardless of hierarchy, encouraging collective problem-solving and cross-functional collaboration for well-rounded solutions.	|
+| 1. | In our organisation, senior leaders inspire confidence in their alignment towards achieving a shared vision. |
+| 2. | The senior leaders in our organisation act as an enablement team for engineering, providing the conditions for high performance.	|
 | 3. | Within our teams, the person with the most appropriate competency in a given situation is encouraged to step forward to take the lead. |
 | 4. | Within our teams, data and evidence play a central role in our decision-making processes, ensuring informed choices and fostering a data-driven culture.	|
 | 5. | I feel confident in taking the lead in situations when I have the most appropriate knowledge and skills to direct the efforts of others. |
