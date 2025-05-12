@@ -20,7 +20,7 @@ Below are links to the survey questions. The questions are Likert Scale statemen
 ### Mastery
 Care and quality in engineering and continual growth as teams and individuals.
 
-* <a href="/questions/crafts.md">Craft</a>
+* <a href="/questions/craft.md">Craft</a>
 * <a href="/questions/creativity.md">Creativity</a>
 * <a href="/questions/learning.md">Learning</a>
 * <a href="/questions/professionalism.md">Professionalism</a>
