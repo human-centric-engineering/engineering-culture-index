@@ -7,10 +7,10 @@ Culture, by its emergent nature, defies accurate measurement. It is an intuitive
 | Mastery |  Autonomy | Purpose |
 | ------- | ------- | ------- |
 | **Care and quality in engineering and continual growth as teams and individuals** | **Self-directed teams and individuals collaborating effectively** | **Deep fulfilment and being part of something bigger than ourselves** |
-| **Craftsmanship** Pride in Work, Care for Quality, Technical Excellence | **Trust** Dependability, Psychological Safety,  Strong Relationships, Honesty, Vulnerability | **Clarity** Clarity of the primary purpose of the organisation and teams. Clear Direction. Clear Career Paths, Clear Roles and Responsibilities |
+| **Craft** Pride in Work, Care for Quality, Technical Excellence | **Trust** Dependability, Psychological Safety,  Strong Relationships, Honesty, Vulnerability | **Clarity** Clarity of the primary purpose of the organisation and teams. Clear Direction. Clear Career Paths, Clear Roles and Responsibilities |
 | **Creativity** Experimentation, Prototyping, Innovation, Hypothesis-Driven Culture, Implementing Novelty | **Agency** Influence, Autonomy, Empowerment, Ownership, Accountability, Self-Organising Teams, Sustainable Pace | **Leadership** Decision Making, Taking Actions, Organisational Cohesion, Collaboration, Small ‘L’ Leadership, Shared Responsibility |
-| **Learning** Knowledge Sharing, Dedicated Learning Time, Communities of Practice,  Continuous Improvement Mentoring, Coaching, Growth Mindset, Feedback | **Infrastructure** Tools, Environments, Automation, Structures, Processes, Operational Excellence | **Engagement** Energy, Motivation, Flow, Contribution, Challenge, Inspiration, Wellbeing, Vitality, Connection |
-| **Professionalism** Technical Practices, Principles, Standards, Competencies, Attitudes, and Behaviours | **Information** Communication, Relationships, Alignment, Visibility, Documentation, Information Flows | **Meaning** Inclusion, Belonging, Connection, Aligned Values, Meaningful Results, Aspiration, Individual Transformation, Stability, Feeling Valued |
+| **Learning** Knowledge Sharing, Dedicated Learning Time, Communities of Practice,  Continuous Improvement Mentoring, Coaching, Growth Mindset, Feedback | **Resources** Tools, Environments, Automation, Structures, Processes, Operational Excellence | **Direction** Momentum, North Star, Goals, Aspiration, Vision, Potential, Destination, Journey, Orientation, Narrative |
+| **Professionalism** Technical Practices, Principles, Standards, Competencies, Attitudes, and Behaviours | **Context** Communication, Visibility, Documentation, Information Flows, Sensemaking, Exposing Reality | **Meaning** Inclusion, Belonging, Connection, Contribution, Aligned Values, Meaningful Results, Individual Transformation, Stability, Feeling Valued, Mattering, Significance, Hope, Engagement, Energy, Motivation, Flow, Challenge, Inspiration, Wellbeing, Vitality |
 
 
 
@@ -20,7 +20,7 @@ Below are links to the survey questions. The questions are Likert Scale statemen
 ### Mastery
 Care and quality in engineering and continual growth as teams and individuals.
 
-* <a href="/questions/craftsmanship.md">Craftsmanship</a>
+* <a href="/questions/crafts.md">Craft</a>
 * <a href="/questions/creativity.md">Creativity</a>
 * <a href="/questions/learning.md">Learning</a>
 * <a href="/questions/professionalism.md">Professionalism</a>
@@ -30,15 +30,15 @@ Self-directed teams and individuals collaborating effectively.
 
 * <a href="/questions/trust.md">Trust</a>
 * <a href="/questions/agency.md">Agency</a>
-* <a href="/questions/infrastructure.md">Infrastructure</a>
-* <a href="/questions/information.md">Information</a>
+* <a href="/questions/resources.md">Resources</a>
+* <a href="/questions/context.md">Context</a>
 
 ### Purpose
 Deep fulfilment and being part of something bigger than ourselves.
 
 * <a href="/questions/clarity.md">Clarity</a>
 * <a href="/questions/leadership.md">Leadership</a>
-* <a href="/questions/engagement.md">Engagement</a>
+* <a href="/questions/direction.md">Direction</a>
 * <a href="/questions/meaning.md">Meaning</a>
 
 #### Summary
